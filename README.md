@@ -2,7 +2,7 @@
 
 Installation
 
-1. Setup crontab
+1. crontab
 	59 23 * * * sudo bash .../LogStatistik/LogStatistik.sh	
 
 2. Files
