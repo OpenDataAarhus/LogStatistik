@@ -1,10 +1,12 @@
 #Logstatistics  
+  
 Installation    
+  
 1 crontab 59 23 * * * sudo bash .../LogStatistics/LogStatistics.sh   
 2 Files LogStatistics.db LogStatistics.py LogStatistics.sh  
 Loading it into the same folder example.../LogStatistics
   
-Documentation  
+#Documentation  
   
 LogStatistics uses the CKAN log file: ckan_default.custom.log  
   
