@@ -30,6 +30,6 @@ This way it is easy to work with the numbers, sort them, use them in statistics 
 The result of this will be transferred to your CKAN.
 
 #resource.py
-http://www.odaa.dk/dataset/statistik-pa-odaa/resource/c81046d7-5071-4e42-aa5d-ed949bcfc250
+http://www.odaa.dk/dataset/statistik-pa-odaa/resource/c81046d7-5071-4e42-aa5d-ed949bcfc250   
 Display a list of all active dataset.
 
